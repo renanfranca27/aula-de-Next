@@ -1,3 +1,15 @@
-# aula-de-Next
-aula de  next js, react tailwindui. criando um projeto com banco de dados
-pasta Web-app está dando erro por um pequeno bug que ja estar sendo corrigido
+
+# AULA DE NEXT.JS 
+
+aula ja com um projeto de ponta a ponta, com banco de dados e muito mais 
+
+
+## Aprendizados
+
+banco de dados com prisma, back-end usando node.js, e react mais next  
+
+
+## Suporte
+
+a pasta WEB-APP no momento esta fora de uso, mas em breve estar funcionando
+
